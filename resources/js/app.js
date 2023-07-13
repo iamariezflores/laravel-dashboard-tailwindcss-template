@@ -6,4 +6,4 @@ import {
     initTE,
   } from "tw-elements";
   
-  initTE({ Tab });
+initTE({ Tab });
