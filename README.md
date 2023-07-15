@@ -5,6 +5,7 @@ This Dashboard is based on this layout [Github](https://github.com/fireclint/nex
 # Requirements
 1. Composer 2.5.8 or Higher
 2. Node v16.13.1
+3. You should have a local webserver installed with PHP of atleast version 8.0.
 
 # Getting Started
 
